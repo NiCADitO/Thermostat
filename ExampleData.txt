@@ -1,0 +1,80 @@
+{
+  "page": {
+    "page": 1,
+    "totalPages": 1,
+    "pageSize": 2,
+    "total": 2
+  },
+  "thermostatList": [
+    {
+      "identifier": "421855219117",
+      "name": "Upstairs",
+      "thermostatRev": "240118030553",
+      "isRegistered": true,
+      "modelNumber": "artemisSmart",
+      "brand": "ecobee",
+      "features": "Home,HomeKit",
+      "lastModified": "2024-01-18 03:05:53",
+      "thermostatTime": "2024-01-17 21:05:58",
+      "utcTime": "2024-01-18 05:05:58",
+      "runtime": {
+        "runtimeRev": "240118050317",
+        "connected": true,
+        "firstConnected": "2023-08-13 21:07:28",
+        "connectDateTime": "2024-01-16 18:22:07",
+        "disconnectDateTime": "2024-01-16 17:45:12",
+        "lastModified": "2024-01-18 05:03:17",
+        "lastStatusModified": "2024-01-18 05:03:17",
+        "runtimeDaesiredFanMode": "auto",
+        "actualVOC": -5002,
+        "actualCO2": -5002,
+        "actualAQAccuracy": 0,
+        "actualAQScore": -5002,
+        "desiredHeatRange": [450, 790],
+        "desiredCoolRange": [650, 920]
+      }
+    },
+    {
+      "identifier": "531664032790",
+      "name": "Downstairs",
+      "thermostatRev": "240118012437",
+      "isRegistered": true,
+      "modelNumber": "aresSmart",
+      "brand": "ecobee",
+      "features": "Home,HomeKit",
+      "lastModified": "2024-01-18 01:24:37",
+      "thermostatTime": "2024-01-17 21:05:58",
+      "utcTime": "2024-01-18 05:05:58",
+      "runtime": {
+        "runtimeRev": "240118050458",
+        "connected": true,
+        "firstConnected": "2023-12-29 03:17:39",
+        "connectDateTime": "2024-01-16 18:20:32",
+        "disconnectDateTime": "2024-01-15 21:33:02",
+        "lastModified": "2024-01-18 05:04:58",
+        "lastStatusModified": "2024-01-18 05:04:58",
+        "runtimeDate": "2024-01-18",
+        "runtimeInterval": 58,
+        "actualTemperature": 692,
+        "actualHumidity": 57,
+        "rawTemperature": 686,
+        "showIconMode": 0,
+        "desiredHeat": 700,
+        "desiredCool": 700,
+        "desiredHumidity": 36,
+        "desiredDehumidity": 60,
+        "desiredFanMode": "auto",
+        "actualVOC": 1034,
+        "actualCO2": 731,
+        "actualAQAccuracy": 4,
+        "actualAQScore": 73,
+        "desiredHeatRange": [450, 790],
+        "desiredCoolRange": [650, 920]
+      }
+    }
+  ],
+  "status": {
+    "code": 0,
+    "message": ""
+  }
+}
